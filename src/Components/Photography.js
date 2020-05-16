@@ -35,31 +35,31 @@ const largeFont = {fontSize : 50};
    
 
       <Carousel>
-        <a href="https://www.instagram.com" title='Swipe sideways to scroll!'>
+        <a href="https://www.instagram.com/p/B6vH8SGgKOR/" title='Swipe sideways to scroll!'>
         <img alt="test" className="legend" src={(imageOne)} />
         </a>
-        <a href="https://www.instagram.com" title='Swipe sideways to scroll!'>
+        <a href="https://www.instagram.com/p/B6rm2xBg0Pg/" title='Swipe sideways to scroll!'>
         <img alt="test" className="legend" src={(imageTwo)} />
         </a>
-        <a href="https://www.instagram.com" title='Swipe sideways to scroll!'>
+        <a href="https://www.instagram.com/p/B3E2Lf1AEWq/" title='Swipe sideways to scroll!'>
         <img alt="test" className="legend" src={(imageThree)} />
         </a>
-        <a href="https://www.instagram.com" title='Swipe sideways to scroll!'>
+        <a href="https://www.instagram.com/p/B3m3gfjgb5t/" title='Swipe sideways to scroll!'>
         <img alt="test" className="legend" src={(imageFour)} />
         </a>
-        <a href="https://www.instagram.com" title='Swipe sideways to scroll!'>
+        <a href="https://www.instagram.com/p/B4sF-OyAWd4/" title='Swipe sideways to scroll!'>
         <img alt="test" className="legend" src={(imageFive)} />
         </a>
-        <a href="https://www.instagram.com" title='Swipe sideways to scroll!'>
+        <a href="https://www.instagram.com/p/B4uIpJzAMmP/" title='Swipe sideways to scroll!'>
         <img alt="test" className="legend" src={(imageSix)} />
         </a>
-        <a href="https://www.instagram.com" title='Swipe sideways to scroll!'>
+        <a href="https://www.instagram.com/p/B476Z0jA4aY/" title='Swipe sideways to scroll!'>
         <img alt="test" className="legend" src={(imageSeven)} />
         </a>
-        <a href="https://www.instagram.com" title='Swipe sideways to scroll!'>
+        <a href="https://www.instagram.com/p/B-tlxu7AfdU/" title='Swipe sideways to scroll!'>
         <img alt="test" className="legend" src={(imageEight)} />
         </a>
-        <a href="https://www.instagram.com" title='Swipe sideways to scroll!'>
+        <a href="https://www.instagram.com/p/B6TgFgsALtX/" title='Swipe sideways to scroll!'>
         <img alt="test" className="legend" src={(imageNine)} />
         </a>
         
