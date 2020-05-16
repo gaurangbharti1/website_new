@@ -1,5 +1,8 @@
 import React, { Component } from 'react';
 
+const styleWhite = {color : 'white'};
+const largeFont = {fontSize : 35};
+
 class Contact extends Component {
   render() {
 
@@ -27,7 +30,7 @@ class Contact extends Component {
 
             <div className="ten columns">
 
-                  <p className="lead">{message}</p>
+                  <p className="lead" align="center" style={styleWhite, largeFont}>{message}</p>
 
             </div>
 
