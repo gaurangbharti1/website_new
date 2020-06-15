@@ -32,6 +32,7 @@ const largeFont = {fontSize : 50};
     </div>
     <p></p>
     <p align="center"> Click on the image for the instagram link!</p>
+    <p align="center"> Swipe left for more!</p>
    
 
       <Carousel>
