@@ -63,9 +63,21 @@
     ],
     "work":[
       {
+        "company":"Modfy",
+        "title":"Co-Founder",
+        "years":"November 2020 - January 2021",
+        "description":"Co-Founded modfy.video"
+      },
+      {
+        "company":"FOEZY",
+        "title":"Technical Consultant",
+        "years":"October 2020 - November 2020",
+        "description":"Got hired as a Technical Consultant for a Middle East-based Start up during it's initial launch phase."
+      },
+      {
         "company":"Mozilla",
         "title":"Backend Developer",
-        "years":"April 2020 - Present",
+        "years":"April 2020 - June 2020",
         "description":"Working on a Twitter bot that cites tweets if it is tagged in a reply to that tweet. @whosaidthis_bot"
       },
       {
