@@ -63,6 +63,12 @@
     ],
     "work":[
       {
+        "company":"Algomint",
+        "title":"Backend Developer",
+        "years":"December 2021 - Present",
+        "description":"Managing the Backend for algomint.io"
+      },
+      {
         "company":"Modfy",
         "title":"Co-Founder",
         "years":"November 2020 - January 2021",
@@ -72,7 +78,7 @@
         "company":"FOEZY",
         "title":"Technical Consultant",
         "years":"October 2020 - November 2020",
-        "description":"Got hired as a Technical Consultant for a Middle East-based Start up during it's initial launch phase."
+        "description":"Technical Consultant for a Middle East-based Start up during it's initial launch phase."
       },
       {
         "company":"Mozilla",
