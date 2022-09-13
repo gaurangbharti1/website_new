@@ -4,13 +4,13 @@
     "occupation":"Student",
     "description":"A young programmer who's learning everyday",
     "image":"profile2.png",
-    "bio":"I'm a 19 year old CS Student from India; Currently studying at the University of British Columbia. I've worked on a variety of projects, from Data Analytics to Web Development. I enjoy learning and taking on new challenges.",
+    "bio":"I'm a 20 year old CS Student from India; Currently studying at the University of British Columbia. I've worked on a variety of projects, from Data Analytics to Web Development. I enjoy learning and taking on new challenges.",
     "contactmessage":"Contact me is under construction. Email me at gaurangbharti@gmail.com",
     "email": "gaurangbharti@gmail.com",
     "phone": "N/A",
     "address":{
       "street":"(Your Street)",
-      "city":"Bangalore",
+      "city":"Canada",
       "state":"(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
@@ -63,9 +63,15 @@
     ],
     "work":[
       {
+        "company":"Actiondesk",
+        "title":"Data Analyst",
+        "years":"August 2022 - Present",
+        "description":"Building reports and working with clients' Data"
+      },
+      {
         "company":"Algomint",
         "title":"Backend Developer",
-        "years":"December 2021 - Present",
+        "years":"December 2021 - August 2022",
         "description":"Managing the Backend for algomint.io"
       },
       {
