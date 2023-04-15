@@ -4,7 +4,7 @@
     "occupation":"Student",
     "description":"A young programmer who's learning everyday",
     "image":"profile2.png",
-    "bio":"I'm a 20 year old CS Student from India; Currently studying at the University of British Columbia. I've worked on a variety of projects, from Data Analytics to Web Development. I enjoy learning and taking on new challenges.",
+    "bio":"I'm a 21 year old CS Student from India; Currently studying at the University of British Columbia. I've worked on a variety of projects, from Data Analytics to Web Development. I enjoy learning and taking on new challenges.",
     "contactmessage":"Contact me is under construction. Email me at gaurangbharti@gmail.com",
     "email": "gaurangbharti@gmail.com",
     "phone": "N/A",
@@ -14,13 +14,8 @@
       "state":"(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
-    "resumedownload":"https://drive.google.com/file/d/1RhSVDu84z6Rwl8NFFTwRMh3Pb0QLI743/view",
+    "resumedownload":"https://drive.google.com/file/d/1BcCZSXQBRAEm0WB2T6DbYuCt66H5iADK/view",
     "social":[
-      {
-        "name":"facebook",
-        "url":"https://www.facebook.com/gaurang.bharti/",
-        "className":"fa fa-facebook"
-      },
       {
         "name":"twitter",
         "url":"https://twitter.com/gaurang_bharti",
@@ -62,10 +57,20 @@
       }
     ],
     "work":[
+      { "company": "Sieve Data",
+        "title": "AI Engineer (Part-Time)",
+        "years": "December 2022 - Present",
+        "description": "Building and deploying AI models using Sieve's infrastructure"
+      },
+      { "company": "Fellowship.AI",
+        "title": "Machine Learning Fellow",
+        "years": "January 2023 - April 2023",
+        "description": "Fine-tuned LLaMa 7B for Wealth Advising using only Open Source resources"
+      },
       {
         "company":"Actiondesk",
         "title":"Data Analyst",
-        "years":"August 2022 - Present",
+        "years":"August 2022 - September 2022",
         "description":"Building reports and working with clients' Data"
       },
       {
@@ -112,74 +117,46 @@
       },
       {
         "company":"VISA",
-        "title":"Software engineer intern",
+        "title":"Software Engineering intern",
         "years":"Feb 2018 - July 2018",
         "description":"Worked with a team of software programmers to implement a new method of payment involving NFC; a wireless ATM transaction system."
       },
       {
         "company":"Honeywell",
-        "title":"Engineering itern",
+        "title":"Engineering intern",
         "years":"June 2017 - Jan 2018",
         "description":"Worked with Honeywell on building a prototype of an Autonomous Transportation Vehicle while in 9th grade."
       }
      
     ],
     "skills":[
-      {
-        "name":"Python",
-        "level":"75%"
-      },
-      {
-        "name":"Arduino",
-        "level":"60%"
-      },
-      {
-        "name":"ReactJs/NodeJS",
-        "level":"50%"
-      },
-      {
-        "name":"Java",
-        "level":"50%"
-      },
-      {
-        "name":"Unity 3D",
-        "level":"70%"
-      },
-      {
-        "name":"IOT",
-        "level":"70%"
-      },
-      {
-        "name":"Arduino C",
-        "level":"60%"
-      }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Search m8",
-        "category":"Tool to help scrape the internet and summarize the information",
-        "image":"search-m8.jpg",
-        "url":"https://github.com/gaurangbharti1/search-m8"
+        "title":"Wealth Alpaca",
+        "category":"Variation of Stanford's Alpaca using LoRa",
+        "image":"wealth_alpaca.jpg",
+        "url":"https://github.com/gaurangbharti1/wealth-alpaca"
       },
       {
-        "title":"Cisco Internship",
-        "category":"NFC Based ATM system",
-        "image":"nfc.jpg",
-        "url":"https://github.com/gaurangbharti1/cisco-internship"
+        "title":"Riffusion Walk",
+        "category":"Generate A Music Video using Riffusion",
+        "image":"riffusion.jpg",
+        "url":"https://gaurangbharti1-riffusion-walk-streamlit-main-9hfoyg.streamlit.app"
       },
       {
-        "title":"Autonomous Vehicle in GTA 5",
-        "category":"Algorithm for an autonomous vehilce in GTA 5 for IB ExtendedEssay",
-        "image":"gta5.png",
-        "url":"https://github.com/gaurangbharti1/extended_essay"
+        "title":"Video Style Transfer",
+        "category":"Apply image to video style transfer",
+        "image":"style_transfer.jpg",
+        "url":"https://gaurangbharti1-style-transfer-streamlit-streamlit-u2ed8h.streamlit.app"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website",
-        "image":"website.png",
-        "url":"https://github.com/gaurangbharti1/website"
+        "title":"Finance News GPT",
+        "category":"GPT-2 fine-tuned on Open Source resources for news generation",
+        "image":"finance_gpt.jpg",
+        "url":"https://www.kaggle.com/code/gbhacker23/gpt-2-finance-news"
       }
       
     ]
